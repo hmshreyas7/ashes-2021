@@ -4,8 +4,8 @@
 The goal of this project is to analyze and visualize the finer details of the Ashes series and the players/squads participating in it from different angles.
 
 ## What are the main files?
-As of now, there is only 1 important file: [player_vs_team.ipynb](https://github.com/hmshreyas7/ashes-2021/blob/main/player_vs_team.ipynb) that allows one to compare the batting average of 1 batsman with that of the other top 7 batsmen in his team over the course of his entire Test career.
-The third cell contains 5 customizable parameters that can be modified depending on the player of interest. The 'player' and 'team' parameters must be set accurately in the format shown. The exact player name with the correct initials can be found using [Cricinfo Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html). The other 3 parameters are only used for customizing the plot and can be set as desired.
+As of now, there is only 1 important file: [player_vs_team.ipynb](https://github.com/hmshreyas7/ashes-2021/blob/main/player_vs_team.ipynb) that allows one to compare the batting average of 1 batsman with that of the other top 7 batsmen in his team over the course of his entire Test career.\
+The third cell contains 5 customizable parameters that can be modified depending on the player of interest. The 'player' and 'team' parameters must be set accurately in the format shown. The exact player name with the correct initials can be found using [Cricinfo Statsguru](https://stats.espncricinfo.com/ci/engine/stats/index.html). The other 3 parameters are only used for customizing the plot and can be set as desired.\
 Although the purpose of this is to analyze players involved in the Ashes, it can also be used for players from other countries that have played Test match cricket between March 8, 2004 to December 8, 2021.
 
 ## What are the dependencies?
